@@ -11,9 +11,12 @@
     "url": "git+https://github.com/Br0kensword/GrandMasterCuy.git"
   },
   "author": "Justin U",
-  "license": "GNU GPLv3",
+  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/Br0kensword/GrandMasterCuy/issues"
   },
-  "homepage": "https://github.com/Br0kensword/GrandMasterCuy#readme"
+  "homepage": "https://github.com/Br0kensword/GrandMasterCuy#readme",
+  "dependencies": {
+    "twitter": "^1.7.0"
+  }
 }
