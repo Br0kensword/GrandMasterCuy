@@ -1,0 +1,19 @@
+{
+  "name": "GrandMasterCuy",
+  "version": "1.0.0",
+  "description": "Grand Master Cuy bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Br0kensword/GrandMasterCuy.git"
+  },
+  "author": "Justin U",
+  "license": "GNU GPLv3",
+  "bugs": {
+    "url": "https://github.com/Br0kensword/GrandMasterCuy/issues"
+  },
+  "homepage": "https://github.com/Br0kensword/GrandMasterCuy#readme"
+}
